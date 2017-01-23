@@ -1,0 +1,112 @@
+html,body{
+  background-color: #089de3;
+  color: white;
+}
+
+.fondojumbo{
+  background-color: #025A84;
+}
+
+.cuerpo{
+  width: 100%;
+  height: 100%;
+}
+
+.textocards{
+  text-align: justify;
+}
+
+.colornav{
+  background-color: white;
+  border: 0px;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+  display: inline-block;
+}
+
+nav{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+.titulo{
+  display: inline;
+  font-family: 'Francois One', sans-serif;
+  font-size: 25px;
+  color: #777;
+}
+
+footer{
+  width: 100%;
+  height: 200px;
+  padding: 2px;
+  display: inline-block;
+}
+
+.tamfooter{
+  width: auto;
+  height: 100%;
+  background-color:  #037AB4;
+}
+
+.contacto{
+  padding: 10px;
+  width: 300px;
+  height:auto;
+  margin: 8px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  float: left;
+  color: white;
+}
+
+span{
+  font-family: 'Indie Flower', cursive;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.aboutus{
+  padding: 10px;
+  width: 300px;
+  height: auto;
+  margin: 8px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: white;
+  display: inline-block;
+}
+
+.protectoras{
+  padding: 10px;
+  width: 300px;
+  height: auto;
+  margin: 8px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: white;
+  display: inline-block;
+}
+
+footer > div > a{
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-size: 17px;
+}
+
+a:hover{
+  text-decoration: none;
+  color: red;
+}
+
+.fotodesc{
+  padding: 10px;
+}
+
+.infopag{
+  text-align: center;
+  font-size: 15px;
+}
